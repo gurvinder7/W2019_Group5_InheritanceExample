@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Person.swift
 //  W2019_Group5_InheritanceExample
 //
 //  Created by MacStudent on 2019-02-14.
@@ -8,8 +8,8 @@
 
 import Foundation
 
-print("Hello, World!")
-print("hiii")
-print("gurvinder branch")
+class Person
+{
 
-print("My first message")
+    
+}
