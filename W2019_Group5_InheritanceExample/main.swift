@@ -12,3 +12,10 @@ print("Hello, World!")
 print("hiii")
 
 print("My first message")
+
+
+var f1 = faculty()
+f1.fid = 121
+f1.fname = "khushi"
+f1.lname = "verma"
+f1.display()
