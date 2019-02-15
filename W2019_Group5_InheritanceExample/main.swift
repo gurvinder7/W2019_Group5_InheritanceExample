@@ -8,7 +8,4 @@
 
 import Foundation
 
-print("Hello, World!")
-print("hiii")
-print("gurvinder branch")
 
